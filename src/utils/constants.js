@@ -17,7 +17,7 @@ export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'Across the Spider-Verse', icon: <AddReactionOutlinedIcon />, },
+  { name: 'Trending', icon: <AddReactionOutlinedIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'Gaming', icon: <SportsEsportsIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
