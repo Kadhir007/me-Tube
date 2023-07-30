@@ -1,4 +1,7 @@
-[Visit Me-Tube](https://me-tube-kad.netlify.app/) - a YouTube clone made with ReactJs
+[![Netlify Status](https://api.netlify.com/api/v1/badges/58cf9289-0616-4904-8cb4-599460631e78/deploy-status)](https://app.netlify.com/sites/me-tube-kad/deploys)
+
+Visit [Me-Tube](https://me-tube-kad.netlify.app/) - a YouTube clone made with ReactJs
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
